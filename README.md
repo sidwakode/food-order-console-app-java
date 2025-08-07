@@ -51,9 +51,5 @@ LinkedIn: [@sidharth-wakode](https://www.linkedin.com/in/sidharth-wakode-59a4562
 
 ---
 
-## 📅 Learning Plan
-
-This project is part of a structured 40-day Java learning plan to demonstrate continuous improvement, build confidence, and prepare for job interviews.
-
 
 
